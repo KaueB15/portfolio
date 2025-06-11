@@ -1,6 +1,9 @@
+import HomeContent from "../components/home-content"
+
 const HomePage = () => {
   return (
-    <div className="h-screen bg-[#333333]">
+    <div className="h-[calc(100vh-96px)] bg-[#333333]">
+        <HomeContent /> 
     </div>
   )
 }
