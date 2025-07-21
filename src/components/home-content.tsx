@@ -3,9 +3,9 @@ const HomeContent = () => {
     <main className="h-full flex items-center justify-center gap-40">
         <div>
             <div className="flex gap-10">
-                <img src="/Git.svg" alt="Github" />
-                <img src="/Linkedin.svg" alt="Linkedin" />
-                <img src="/Instagram.svg" alt="Instagram" />
+                <img src="/Git.svg" alt="Github" title="Github" />
+                <img src="/Linkedin.svg" alt="Linkedin" title="Linkedin" />
+                <img src="/Instagram.svg" alt="Instagram" title="Instagram" />
             </div>
             <div className="text-white mt-20 mb-20 flex flex-col gap-5">
                 <p className="font-medium text-3xl">Olá, eu sou Kauê Batista</p>
