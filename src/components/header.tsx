@@ -7,7 +7,7 @@ const MainHeader = () => {
         <nav>
             <ul className="text-white flex gap-7 text-3xl font-semibold max-2xl:text-2xl">
                 <li>
-                    <a className="transition duration-500 hover:text-purple-600" href="">Sobre mim</a>
+                    <a className="transition duration-500 hover:text-purple-600" href="/about">Sobre mim</a>
                 </li>
                 <li>
                     <a className="transition duration-500 hover:text-purple-600" href="/techs">Tecnologias</a>
